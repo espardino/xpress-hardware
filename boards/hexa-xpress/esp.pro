@@ -1,6 +1,6 @@
-update=16/02/2012 23:06:11
+update=17/02/2012 15:31:23
 version=1
-last_client=cvpcb
+last_client=kicad
 [pcbnew]
 version=1
 PadDrlX=320
@@ -68,8 +68,6 @@ LibName9=led
 LibName10=dip_sockets
 LibName11=espardino_xpress_footprints
 LibDir=C:/Users/ajo/Downloads
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=C:/Users/ajo/Downloads
@@ -138,3 +136,5 @@ version=1
 NetIExt=net
 [cvpcb/libraries]
 EquName1=devcms
+[general]
+version=1
